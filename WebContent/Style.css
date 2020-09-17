@@ -1,0 +1,37 @@
+table{
+	
+	background-color: rgba(217, 217, 217, 0.7);	
+}
+td{
+	
+	width: 40px;
+	height: 40px;
+	text-align: center;
+	background-color: rgba(220, 220, 220, 0.7);
+}
+
+
+
+.button{
+	
+    margin-left: 5px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    margin-right: 5px;
+    width: 60px;
+    height: 47px;
+    font-size: 22px;
+}
+
+
+.display{
+	height: 50px;
+	color: white;
+	background-color: rgba(82, 81, 81, 0.7);
+	font-size: 24px;
+	text-align: right;
+	border: 0px;
+	padding-right: 5px;
+	padding-left: 5px;
+}
+
