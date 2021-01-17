@@ -4,11 +4,11 @@ Calculator with styles/font/colors settings using JavaEE, JavaServer Pages, Java
 
 Technologies:
 
-Java 8
-JavaEE
-HTML5
-XML
-CSS
-Bootstrap
-JSF
-using server Glassfish 5.0
+- Java 8
+- JavaEE
+- HTML5
+- XML
+- CSS
+- Bootstrap
+- JSP
+- Glassfish 5.0
